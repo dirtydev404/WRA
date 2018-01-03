@@ -5,3 +5,4 @@
 /test/*
 /public/*
 *.keep
+config/database.yml\nconfig/secrets.yml
